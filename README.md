@@ -1,3 +1,4 @@
-##Arrays and Looping
+## Arrays and Looping
+---
 
-#This project is not yet completed.
+### This project is not yet completed.
